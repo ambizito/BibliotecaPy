@@ -1,0 +1,25 @@
+
+{
+    {
+        "python.linting.pylintEnabled": true,
+        "python.linting.enabled": true,
+        "[python]": {
+            "editor.defaultFormatter": "ms-python.python"
+        },
+        "python.formatting.provider": "autopep8"
+    }
+    {
+        "python.linting.pylintEnabled": true,
+    }
+
+    // Enables linting for Python files
+    "python.linting.enabled": true,
+
+    // Sets the default formatter for Python files to the Microsoft Python extension
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+
+    // Sets the formatting provider for Python files to autopep8
+    "python.formatting.provider": "autopep8"
+}

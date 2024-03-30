@@ -1,0 +1,23 @@
+1,1984,1,George Orwell,Distopia|Ficção Científica,08-06-1949
+2,O Senhor dos Anéis,2,J.R.R. Tolkien,Fantasia|Aventura,29-07-1954
+3,Orgulho e Preconceito,3,Jane Austen,Romance|Literatura Inglesa,28-01-1813
+4,A Revolução dos Bichos,4,George Orwell,Sátira|Ficção,17-08-1945
+5,Fahrenheit 451,5,Ray Bradbury,Distopia|Ficção Científica,19-10-1953,
+6,O Pequeno Príncipe,6,Antoine de Saint-Exupéry,Fantasia|Filosofia,06-04-1943
+7,O Grande Gatsby,7,F. Scott Fitzgerald,Romance,10-04-1925
+8,Moby Dick,8,Herman Melville,Aventura|Clássico,18-10-1851
+9,Hamlet,9,William Shakespeare,Tragédia|Drama,01-01-1603
+10,Dom Quixote,10,Miguel de Cervantes,Romance|Aventura,16-01-1605
+11,O Processo,11,Franz Kafka,Ficção|Drama,01-01-1925
+12,Cem Anos de Solidão,12,Gabriel García Márquez,Realismo Mágico|Romance,05-06-1967
+13,Ulisses,13,James Joyce,Modernismo|Romance,02-02-1922
+14,Guerra e Paz,14,Leo Tolstoy,Romance Histórico|Ficção,01-01-1869
+15,A Divina Comédia,15,Dante Alighieri,Épico|Poesia,01-01-1320
+16,Os Irmãos Karamazov,16,Fyodor Dostoevsky,Filosofia|Romance,01-01-1880
+17,A Metamorfose,17,Franz Kafka,Fantasia|Clássico,01-01-1915
+18,O Idiota,18,Fyodor Dostoevsky,Romance|Filosofia,01-01-1869
+19,Crime e Castigo,19,Fyodor Dostoevsky,Psicológico|Ficção,01-01-1866
+20,Paraíso Perdido,20,John Milton,Épico|Poesia,01-01-1667
+21,O Hobbit,21,J.R.R. Tolkien,Fantasia|Aventura,21-09-1937
+22,As Viagens de Gulliver,22,Jonathan Swift,Sátira|Aventura,28-10-1726
+23,Jane Eyre,23,Charlotte Brontë,Romance|Gótico,16-10-1847
